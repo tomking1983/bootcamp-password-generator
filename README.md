@@ -10,7 +10,7 @@ This criteria was as follows;
 
 * Present a series of prompts for password criteria
 
-* Once all criteria has been selected teh password shall be generated and displayed
+* Once all criteria has been selected the password shall be generated and displayed
 
 ### Link to work
 
